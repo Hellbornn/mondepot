@@ -10,3 +10,12 @@ div{
     padding: 10px;
     height: 40px;
 }
+
+label{
+    color: blue;
+}
+
+.text-profil{
+    color: crimson;
+    font-size: large;
+}
